@@ -9,8 +9,7 @@ import random
 from sh import git
 
 # constants
-REPO_DIR = "/home/eujern/Dropbox/ymudq"
-
+REPO_DIR = ""
 
 # exception classes
 # interface functions
