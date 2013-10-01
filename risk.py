@@ -3,9 +3,7 @@
 #imports
 import sys
 
-import re
 from optparse import OptionParser
-import random
 from sh import git
 
 # constants
